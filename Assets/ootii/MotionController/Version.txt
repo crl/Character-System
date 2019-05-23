@@ -1,0 +1,7 @@
+Motion Controller
+Version 2.73
+Apr 26, 2018
+
+==== Performance (at edit-time) ====
+
+1. 9/28/2016 U5.4.1f: 100 Unity Default + MC = 105 FPS
