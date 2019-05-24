@@ -1,3 +1,7 @@
 
-Library
-Logs
+Library/
+Logs/
+obj/
+Properties/
+/Temp
+/.vs/
