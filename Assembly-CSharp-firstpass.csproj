@@ -244,14 +244,32 @@
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Burst">
+ <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Animation.Rigging">
+ <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Timeline">
  <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
  <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Animation.Rigging.Editor">
+ <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Animation.Rigging.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
  <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Burst.Editor">
+ <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
  <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
@@ -261,24 +279,6 @@
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
  <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Burst">
- <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Animation.Rigging">
- <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics">
- <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Animation.Rigging.Editor">
- <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Animation.Rigging.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Burst.Editor">
- <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics.Editor">
- <HintPath>E:/github/Character-System/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>F:/Program Files/Unity/2019.3.0a2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
